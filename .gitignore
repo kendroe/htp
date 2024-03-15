@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# yacc and lex
+rewlib/smt_parser.c
+rewlib/smt_parser.h
+rewlib/smt_lexer.c
+
+# binary
+c-engine
+
