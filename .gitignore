@@ -55,7 +55,10 @@ dkms.conf
 rewlib/smt_parser.c
 rewlib/smt_parser.h
 rewlib/smt_lexer.c
+rewlib/smt_parser.tab.h
 
-# binary
+# other
 c-engine
+evidence
+evidence.tab
 
